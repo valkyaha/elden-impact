@@ -1,2 +1,1 @@
-# elden-ring-gatcha-mod
-Elden Gatcha
+# Gatcha Ring Mod
