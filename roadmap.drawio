@@ -1,0 +1,79 @@
+<mxfile host="65bd71144e">
+    <diagram id="ZZ4kX2SS_Ug996x9jVQF" name="Página-1">
+        <mxGraphModel dx="1152" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Elden Impact Roadmap" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="40" width="760" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Phase 1" style="swimlane;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="60" width="390" height="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="" style="edgeStyle=none;html=1;" edge="1" parent="13" source="14" target="15">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Gacha System &amp;amp; UI" style="whiteSpace=wrap;html=1;" vertex="1" parent="13">
+                    <mxGeometry x="146" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="New Object pool creation" style="whiteSpace=wrap;html=1;" vertex="1" parent="13">
+                    <mxGeometry x="126" y="130" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Balancing / Correcting Drops" style="whiteSpace=wrap;html=1;" vertex="1" parent="13">
+                    <mxGeometry x="146" y="240" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="edgeStyle=none;html=1;" edge="1" parent="13" source="15" target="17">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="Phase 2" style="swimlane;" vertex="1" parent="1">
+                    <mxGeometry x="414" y="60" width="390" height="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="" style="edgeStyle=none;html=1;" edge="1" parent="19" source="21" target="22">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="Swap character UI &amp;amp; Swap model in realtime" style="whiteSpace=wrap;html=1;" vertex="1" parent="19">
+                    <mxGeometry x="146" y="70" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="Balancing &amp;amp; Adding swap coldowns" style="whiteSpace=wrap;html=1;" vertex="1" parent="19">
+                    <mxGeometry x="126" y="160" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="Phase 3" style="swimlane;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="400" width="390" height="410" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="" style="edgeStyle=none;html=1;" edge="1" parent="25" source="27" target="28">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="Add seasons sytem in game" style="whiteSpace=wrap;html=1;" vertex="1" parent="25">
+                    <mxGeometry x="119" y="50" width="174" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="" style="edgeStyle=none;html=1;" edge="1" parent="25" source="28" target="30">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="Add random events in gacha and rune discounts" style="whiteSpace=wrap;html=1;" vertex="1" parent="25">
+                    <mxGeometry x="126" y="155" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="Add new weapons &amp;amp; weapon arts" style="whiteSpace=wrap;html=1;" vertex="1" parent="25">
+                    <mxGeometry x="146" y="280" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="Phase 4" style="swimlane;" vertex="1" parent="1">
+                    <mxGeometry x="414" y="400" width="390" height="410" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="" style="edgeStyle=none;html=1;" edge="1" parent="32" source="34" target="36">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="Add story lines for characters" style="whiteSpace=wrap;html=1;" vertex="1" parent="32">
+                    <mxGeometry x="119" y="50" width="174" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="" style="edgeStyle=none;html=1;" edge="1" parent="32" source="36" target="37">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="Add customization + Constrains to armor for characters" style="whiteSpace=wrap;html=1;" vertex="1" parent="32">
+                    <mxGeometry x="126" y="155" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="Maintenace + Bug support" style="whiteSpace=wrap;html=1;" vertex="1" parent="32">
+                    <mxGeometry x="146" y="280" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
