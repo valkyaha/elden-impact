@@ -70,7 +70,7 @@
                 <mxCell id="36" value="Add customization + Constrains to armor for characters" style="whiteSpace=wrap;html=1;" vertex="1" parent="32">
                     <mxGeometry x="126" y="155" width="160" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="37" value="Maintenace + Bug support" style="whiteSpace=wrap;html=1;" vertex="1" parent="32">
+                <mxCell id="37" value="Add new weapons &amp;amp; weapon arts" style="whiteSpace=wrap;html=1;" vertex="1" parent="32">
                     <mxGeometry x="146" y="280" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
