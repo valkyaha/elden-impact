@@ -1,4 +1,4 @@
-# Gacha Ring Mod
+# Elden Impact
 
 This mod aims to convert Elden Ring into a gacha game, meaning no weapong can be adquiered defeating bosses or found on the gound.
 
